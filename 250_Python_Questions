@@ -1,38 +1,20 @@
-
- Python Interview Questions and Answers by Pythonlife
-
- 
-
+2021 - 09 - 22
+Veera G
+===================
 1. What is Python? What are the benefits of using Python?
 Ans: Python is a programming language with objects, modules, threads, exceptions and automatic memory management. The benefits of pythons are that it is simple and easy, portable, extensible, build-in data structure and it is an open source.
-
-
-
 
 
 2. What is PEP 8?
 Ans: PEP 8 is a coding convention, a set of recommendation, about how to write your Python code more readable.
 
 
-
-
-
-
 3. What is pickling and unpickling?
 Ans: Pickle module accepts any Python object and converts it into a string representation and dumps it into a file by using dump function, this process is called pickling. While the process of retrieving original Python objects from the stored string representation is called unpickling.
 
 
-
-
-
-
-
-
 4. How Python is interpreted?
 Ans: Python language is an interpreted language. Python program runs directly from the source code. It converts the source code that is written by the programmer into an intermediate language, which is again translated into machine language that has to be executed.
-
-
-
 
 
 
@@ -42,25 +24,12 @@ The allocation of Python heap space for Python objects is done by Python memory 
 Python also have an inbuilt garbage collector, which recycle all the unused memory and frees the memory and makes it available to the heap space.
 
 
-
-
-
-
-
-
 6. What are the tools that help to find bugs or perform static analysis?
 Ans: PyChecker is a static analysis tool that detects the bugs in Python source code and warns about the style and complexity of the bug. Pylint is another tool that verifies whether the module meets the coding standard.
 
- 
-
- 
 
 7. What are Python decorators?
 Ans: A Python decorator is a specific change that we make in Python syntax to alter functions easily.
-
-
-
-
 
 
 
@@ -70,13 +39,8 @@ Ans: The difference between list and tuple is that list is mutable while tuple i
 
 
 
-
-
-
 9. How are arguments passed by value or by reference?
 Ans: Everything in Python is an object and all variables hold references to the objects. The references values are according to the functions; as a result you cannot change the value of the references. However, you can change the objects if it is mutable.
-
-
 
 
 
